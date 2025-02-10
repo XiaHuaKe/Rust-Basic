@@ -8,6 +8,7 @@
 // hint.
 
 
+
 pub trait Licensed {
     fn licensing_info(&self) -> String {
         "some information".to_string()

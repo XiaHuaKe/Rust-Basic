@@ -79,6 +79,7 @@ mod tests {
         let team = scores.get("England").unwrap();
         assert_eq!(team.goals_scored, 5);
         assert_eq!(team.goals_conceded, 4);
+
     }
 
     #[test]

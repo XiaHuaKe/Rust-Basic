@@ -14,6 +14,7 @@
 
 use std::collections::HashMap;
 
+
 fn fruit_basket() -> HashMap<String, u32> {
     let mut basket = HashMap::new();
 

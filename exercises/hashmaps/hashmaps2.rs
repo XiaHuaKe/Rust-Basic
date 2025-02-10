@@ -42,6 +42,7 @@ fn fruit_basket(basket: &mut HashMap<Fruit, u32>) {
     }
 }
 
+
 #[cfg(test)]
 mod tests {
     use super::*;

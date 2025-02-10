@@ -7,6 +7,7 @@
 // hint.
 
 
+
 struct Wrapper<T> {
     value: T,
 }

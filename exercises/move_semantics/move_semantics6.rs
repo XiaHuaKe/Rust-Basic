@@ -6,6 +6,7 @@
 // for a hint.
 
 
+
 fn main() {
     let data = "Rust is great!".to_string();
 

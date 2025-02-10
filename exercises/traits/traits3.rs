@@ -15,6 +15,7 @@ pub trait Licensed {
     }
 }
 
+
 struct SomeSoftware {
     version_number: i32,
 }

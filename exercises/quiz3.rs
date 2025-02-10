@@ -17,6 +17,7 @@
 // Execute `rustlings hint quiz3` or use the `hint` watch subcommand for a hint.
 
 
+
 use std::fmt::{Debug, Display};
 
 pub struct ReportCard<T> {
